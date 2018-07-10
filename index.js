@@ -6,7 +6,7 @@ function subtract(a,b) {
   return a-b;
 }
 
-function multiplies(a,b) {
+function multiply(a,b) {
   return a*b;
 }
 
